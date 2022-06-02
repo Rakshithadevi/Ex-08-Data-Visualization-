@@ -93,8 +93,46 @@ plt.show()
 
 ## DATA VISTUALISATION USING SEABORN:
 
+![image](https://user-images.githubusercontent.com/94165326/171550808-2ccf9280-f264-4dda-8ef4-f2d10453715b.png)
+
+![image](https://user-images.githubusercontent.com/94165326/171550823-d6d5c64b-26bd-4133-ba35-49cf7476c9f1.png)
+
+![image](https://user-images.githubusercontent.com/94165326/171550845-fdc77183-700c-417a-b18f-d83313827989.png)
+
+![image](https://user-images.githubusercontent.com/94165326/171550860-c4e67b79-9daf-49b6-84b5-14dd9b5a46d0.png)
+
+![image](https://user-images.githubusercontent.com/94165326/171550879-6d327978-b7d5-49ee-b35f-ff5e88960b37.png)
+
+![image](https://user-images.githubusercontent.com/94165326/171550912-95f0132f-1416-4db9-ad8e-a02c6053c3fa.png)
+
+![image](https://user-images.githubusercontent.com/94165326/171550925-4eb8fa36-898a-4490-8eae-46f81537771d.png)
+
+![image](https://user-images.githubusercontent.com/94165326/171550949-382ae564-6893-4cfb-b8e6-b178d79eb761.png)
+
+![image](https://user-images.githubusercontent.com/94165326/171550965-da41b6f5-4109-4ae4-9fb4-7c3dab8fbdb6.png)
+
+![image](https://user-images.githubusercontent.com/94165326/171550986-10ba6198-023b-4826-81e6-115ed33bb280.png)
+
+
 
 ## Data Visualization Using MatPlotlib
+
+![image](https://user-images.githubusercontent.com/94165326/171551019-2174cd54-013c-4899-87a2-9c2c382ac2de.png)
+
+![image](https://user-images.githubusercontent.com/94165326/171551048-419e2e19-c314-4026-8819-4c511d8639b5.png)
+
+![image](https://user-images.githubusercontent.com/94165326/171551068-f1b02d50-d577-49d2-823a-616fa9b0b009.png)
+
+![image](https://user-images.githubusercontent.com/94165326/171551085-6799dc72-5ff8-499b-b658-be963970677b.png)
+
+![image](https://user-images.githubusercontent.com/94165326/171551105-2b4aaf5e-317a-4353-acda-357635908f2b.png)
+
+![image](https://user-images.githubusercontent.com/94165326/171551123-373e8358-ae7d-44af-a2a5-58d2706fae26.png)
+
+![image](https://user-images.githubusercontent.com/94165326/171551146-c3a7e244-9d6f-4b4f-ab05-0408c49fb878.png)
+
+![image](https://user-images.githubusercontent.com/94165326/171551170-d867cee5-874b-48e9-b1f9-f08729489b21.png)
+
 
 ### RESULT:
 
